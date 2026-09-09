@@ -1,0 +1,13 @@
+{
+  "name": "スター育成物語 バズプロ！",
+  "short_name": "バズプロ！",
+  "description": "無名クリエイターを育てる放置育成シミュレーション",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12101c",
+  "theme_color": "#171525",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
